@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;utilidades&apos; to &apos;EjemplosT5/src&apos;&#x0D;&#x0A;- Original project: &apos;EjerciciosT4MªInmaculadaDominguezVargas&apos;&#x0D;&#x0A;- Destination element: &apos;EjemplosT5/src&apos;&#x0D;&#x0A;- Original element: &apos;EjerciciosT4MªInmaculadaDominguezVargas/src/utilidades&apos;" description="Copy package" destination="=EjemplosT5/src" element1="/src&lt;utilidades" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1614245305022" version="1.0"/>
+</session>

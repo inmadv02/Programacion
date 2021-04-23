@@ -1,0 +1,7 @@
+ Map<String, String> base = new HashMap<String, String>();
+    base.put("ACT", "Australia/Darwin");
+    base.put("AET", "Australia/Sydney");
+    base.put("AGT", "America/Argentina/Buenos_Aires");
+    base.put("ART", "Africa/Cairo");
+    base.put("AST", "America/Anchorage");
+    base.put("BET", "America/Sao_Paulo");

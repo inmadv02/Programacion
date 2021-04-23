@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"paqueteHerencia","c":"Base","l":"Base()","url":"%3Cinit%3E()"},{"p":"paqueteHerencia","c":"Hija","l":"Hija()","url":"%3Cinit%3E()"},{"p":"paqueteHerencia","c":"Base","l":"otroMetodo()"},{"p":"paqueteHerencia","c":"Hija","l":"tercerMetodo(int)"},{"p":"paqueteHerencia","c":"Base","l":"unMetodo()"}]
