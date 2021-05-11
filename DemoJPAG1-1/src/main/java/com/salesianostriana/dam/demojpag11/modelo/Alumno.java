@@ -21,5 +21,13 @@ public class Alumno {
 	private String nombre;
 	private String apellidos;
 	
+	public Alumno(String nombre, String apellidos) {
+		super();
+		this.nombre = nombre;
+		this.apellidos = apellidos;
+	}
+	
+	
+	
 
 }

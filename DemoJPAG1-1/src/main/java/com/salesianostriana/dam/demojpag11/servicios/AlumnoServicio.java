@@ -4,7 +4,9 @@ import java.util.List;
 import java.util.stream.Collectors;
 
 import org.springframework.stereotype.Service;
-
+import org.springframework.ui.Model;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PathVariable;
 
 import com.salesianostriana.dam.demojpag11.modelo.Alumno;
 import com.salesianostriana.dam.demojpag11.repos.AlumnoRepository;
@@ -20,4 +22,6 @@ public class AlumnoServicio extends BaseService <Alumno, Long, AlumnoRepository>
 				.map(a-> a.getNombre() + " " + a.getApellidos())
 				.collect(Collectors.toList());
 	}
+	
+	
 }
